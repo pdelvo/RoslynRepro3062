@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynBug", "RoslynBug\RoslynBug.csproj", "{3854E18D-A993-4AE7-89F1-EA3FBED21EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly2", "Assembly2\Assembly2.csproj", "{3D71EFB2-AFB7-494D-B5F4-DF26E203CE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3854E18D-A993-4AE7-89F1-EA3FBED21EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3854E18D-A993-4AE7-89F1-EA3FBED21EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3854E18D-A993-4AE7-89F1-EA3FBED21EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3854E18D-A993-4AE7-89F1-EA3FBED21EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D71EFB2-AFB7-494D-B5F4-DF26E203CE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D71EFB2-AFB7-494D-B5F4-DF26E203CE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D71EFB2-AFB7-494D-B5F4-DF26E203CE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D71EFB2-AFB7-494D-B5F4-DF26E203CE58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
