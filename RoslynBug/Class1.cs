@@ -1,5 +1,4 @@
-﻿using System.Collections.Immutable;
-using Assembly2;
+﻿using Assembly2;
 
 public class Class1
 {
